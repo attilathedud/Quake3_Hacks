@@ -7,7 +7,7 @@
 #define WIN32_LEAN_AND_MEAN
 
 #include <windows.h>
-#include "quake3dLampsHade.h"
+#include "Internal_hook.h"
 
 /*!
 *	Given an address and array of bytes, set the value at that address to the bytes.
